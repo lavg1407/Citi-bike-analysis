@@ -10,6 +10,8 @@ This Citi Bike Data has been processed to remove trips that are taken by staff a
 
 # Results
 
+Here you'll find the link to the Tableau Public: https://public.tableau.com/views/CitiBikeAnalytics_16229189126160/Historia1?:language=es-ES&:display_count=n&:origin=viz_share_link
+
 The following maps shows that during the period time of 2018 to 2020 all of the trips started in the New Jersey area and ending in the same area with little ending presence in the Manhattan area. As well the top 10 ending trip stations are located in the New Jersey area, being Grove St Path station the most used as an ending point for trips. The less ending points for trips are the stations located in the Manhattan area.
 ![Maps](https://raw.githubusercontent.com/lavg1407/citi-bike-analysis/main/Images/Maps.png)
 ![Top_10](https://raw.githubusercontent.com/lavg1407/citi-bike-analysis/main/Images/Top_10.png)
