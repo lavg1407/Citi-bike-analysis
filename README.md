@@ -1,4 +1,4 @@
 # Citi-bike-analysis
 
 
-Maps.png
+![Maps](https://raw.githubusercontent.com/lavg1407/citi-bike-analysis/main/Images/to/Maps.png)
